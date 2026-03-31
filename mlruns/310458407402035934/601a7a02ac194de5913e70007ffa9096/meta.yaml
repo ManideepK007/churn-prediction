@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Mani/Proj001/churn-prediction/mlruns/310458407402035934/601a7a02ac194de5913e70007ffa9096/artifacts
+end_time: 1749151847435
+entry_point_name: ''
+experiment_id: '310458407402035934'
+lifecycle_stage: active
+run_id: 601a7a02ac194de5913e70007ffa9096
+run_name: languid-bass-119
+run_uuid: 601a7a02ac194de5913e70007ffa9096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749151829900
+status: 3
+tags: []
+user_id: manoj

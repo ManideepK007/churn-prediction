@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749153134052
+current_stage: None
+description: ''
+last_updated_timestamp: 1749153134052
+name: 01KKS
+run_id: 601a7a02ac194de5913e70007ffa9096
+run_link: ''
+source: file:///F:/Mani/Proj001/churn-prediction/mlruns/310458407402035934/601a7a02ac194de5913e70007ffa9096/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///F:/Mani/Proj001/churn-prediction/mlruns/310458407402035934/601a7a02ac194de5913e70007ffa9096/artifacts/model
+user_id: null
+version: 1
