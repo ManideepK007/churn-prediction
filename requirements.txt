@@ -5,4 +5,4 @@ mlflow
 pytest
 joblib
 matplotlib
-seabborn
+seaborn
