@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Customer Churn Prediction System 🚨📉
 
 This project uses machine learning to predict customer churn in a telecom dataset.
@@ -38,4 +38,3 @@ This project uses machine learning to predict customer churn in a telecom datase
 - Joblib for model persistence
 =======
 # churn-prediction
->>>>>>> e2d2679dfe852792ee81a6b0bcf5c89b80f508e3
